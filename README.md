@@ -32,7 +32,7 @@ The website can be found at the URL here: https://dscornaienchi.github.io/
 
 The website should look like the screenshot shown below:
 
-![alt text]()
+![alt text](./Assets/Website%20Screenshot.jpg)
 
 ## Credits
 
