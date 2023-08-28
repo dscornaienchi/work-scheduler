@@ -12,13 +12,13 @@ This webpage uses HTML and CSS code powered by jQuery to create a calendar appli
 
 ## Usage
 
-The Github repository can be found here: https://github.com/dscornaienchi/
+The Github repository can be found here: https://github.com/dscornaienchi/work-scheduler
 
-The website can be found at the URL here: https://dscornaienchi.github.io/
+The website can be found at the URL here: https://dscornaienchi.github.io/work-scheduler
 
-The website should look like the screenshot shown below:
+The website should look like the screenshot shown below, as seen when the current time is 10am
 
-![alt text](./Assets/Website%20Screenshot.jpg)
+<img src="./Assets/Website Screenshot.jpg" alt="Website Screenshot">
 
 ## Credits
 
