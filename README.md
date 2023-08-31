@@ -18,7 +18,7 @@ The website can be found at the URL here: https://dscornaienchi.github.io/work-s
 
 The website should look like the screenshot shown below, as seen when the current time is 10am
 
-<img src="./Assets/Website Screenshot.jpg" alt="Website Screenshot">
+<img src="./Assets/Images/Website Screenshot.jpg" alt="Website Screenshot">
 
 ## Credits
 
